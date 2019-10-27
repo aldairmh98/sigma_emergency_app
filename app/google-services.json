@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "155222004773",
+    "firebase_url": "https://sigma-820fb.firebaseio.com",
+    "project_id": "sigma-820fb",
+    "storage_bucket": "sigma-820fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155222004773:android:badf842c745bcef18adbcc",
+        "android_client_info": {
+          "package_name": "com.hackathon.emergency"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155222004773-ej75u56t0gfr91er57fj34g58ho7on98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_rnXcJNytnzCSvOjf911PZ4et1jMqWNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155222004773-ej75u56t0gfr91er57fj34g58ho7on98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
